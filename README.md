@@ -1,6 +1,6 @@
 # Lost-Lands
 
- <a href="https://jashinjashua.github.io/Lost-Lands/">Maze Island  </a> 
+ <a href="https://jashinjashua.github.io/Lost-Lands/">PLAY NOW!</a> 
  
  
 Web Browser Adventure Puzzle Game
