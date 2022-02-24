@@ -4,8 +4,6 @@
  
  
 Web Browser Adventure Puzzle Game
-
-![Banner pic](https://github.com/jashinjashua/Lost_Lands/images/bg-header.png)
  
  
 updated : 24.22.2022
