@@ -1,0 +1,28 @@
+{
+  "platforms": [
+    { "image": "ground", "x": 0, "y": 546 },
+    { "image": "grass:4x1", "x": 400, "y": 420 },
+    { "image": "grass:4x1", "x": 550, "y": 340 },
+    { "image": "grass:4x1", "x": 700, "y": 260 }
+  ],
+
+  "hero": { "x": 235, "y": 525 },
+  "spiders": [{ "x": 1020, "y": 400 }],
+  "spiders_gold": [],
+  "spiders_blue": [],
+
+  "waves": [],
+  "moving_platforms": [],
+  "clouds": [],
+  "cages": [],
+  "fishes": [],
+  "worms": [],
+  "acids": [],
+  "bats": [],
+  "door": { "x": 231, "y": 546 },
+  "key": { "x": 780, "y": 200 },
+  "not_my_key": { "x": -20, "y": 0 },
+  "friends": [],
+  "bosses": [],
+  "acid_lakes": []
+}
