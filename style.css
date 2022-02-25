@@ -38,7 +38,7 @@ a {
 #content {
   float: left;
   width: 700px;
-  min-height: 400px;
+  min-height: 385px;
 }
 #footer {
   clear: both;
@@ -59,7 +59,7 @@ a {
   font-size: 2em;
   font-weight: normal;
   letter-spacing: 1px;
-  padding: 20px 0px;
+  padding: 15px 0px;
   color: #107040;
 }
 
