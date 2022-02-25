@@ -10,8 +10,8 @@
   "spiders_blue": [],
   "bats": [],
   "waves": [
-    { "x": 370, "y": 560 },
-    { "x": 1120, "y": 560 }
+    { "x": 40, "y": 560 },
+    { "x": 790, "y": 560 }
   ],
   "moving_platforms": [{ "image": "wood", "x": 500, "y": 501 }],
   "clouds": [],
