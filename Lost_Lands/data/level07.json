@@ -1,7 +1,7 @@
 {
   "platforms": [
-    { "image": "grass:8x1", "x": 690, "y": 180 },
-    { "image": "grass:8x1", "x": 434, "y": 180 }
+    { "image": "grass:8x1", "x": 690, "y": 200 },
+    { "image": "grass:8x1", "x": 434, "y": 200 }
   ],
 
   "hero": { "x": 920, "y": 100 },
@@ -19,7 +19,7 @@
   "fishes": [{ "x": 320, "y": 750 }],
   "worms": [],
   "acids": [],
-  "door": { "x": 920, "y": 180 },
+  "door": { "x": 920, "y": 200 },
   "key": { "x": 920, "y": 450 },
   "not_my_key": { "x": -20, "y": 0 },
   "friends": [],
