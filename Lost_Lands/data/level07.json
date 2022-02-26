@@ -1,7 +1,7 @@
 {
   "platforms": [
-    { "image": "grass:8x1", "x": 680, "y": 180 },
-    { "image": "grass:8x1", "x": 414, "y": 180 }
+    { "image": "grass:8x1", "x": 690, "y": 180 },
+    { "image": "grass:8x1", "x": 434, "y": 180 }
   ],
 
   "hero": { "x": 920, "y": 100 },
