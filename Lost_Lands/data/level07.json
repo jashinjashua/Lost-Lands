@@ -1,6 +1,6 @@
 {
   "platforms": [
-    { "image": "grass:8x1", "x": 690, "y": 100 },
+    { "image": "grass:8x1", "x": 690, "y": 200 },
     { "image": "grass:8x1", "x": 434, "y": 200 }
   ],
 
