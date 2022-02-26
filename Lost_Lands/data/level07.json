@@ -1,7 +1,7 @@
 {
   "platforms": [
-    { "image": "grass:8x1", "x": 670, "y": 180 },
-    { "image": "grass:8x1", "x": 404, "y": 180 }
+    { "image": "grass:8x1", "x": 680, "y": 180 },
+    { "image": "grass:8x1", "x": 414, "y": 180 }
   ],
 
   "hero": { "x": 920, "y": 100 },
@@ -16,7 +16,7 @@
   "moving_platforms": [{ "image": "wood", "x": 500, "y": 501 }],
   "clouds": [],
   "cages": [],
-  "fishes": [{ "x": 320, "y": 800 }],
+  "fishes": [{ "x": 320, "y": 750 }],
   "worms": [],
   "acids": [],
   "door": { "x": 920, "y": 180 },
